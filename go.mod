@@ -1,4 +1,4 @@
-module single
+module fs-go-module
 
 go 1.19
 
